@@ -41,7 +41,7 @@ POSSIBILITY OF SUCH DAMAGE.
 */
 
 // Setup
-$email = 'chocolatkey@gmail.com';  //Change to your e-mail address
+$email = 'contact@akshatpunj.tech';  //Change to your e-mail address
 
 // Get Variables
 $error = $_SERVER['REDIRECT_STATUS'];
